@@ -1,0 +1,35 @@
+h2 {
+    color:red;
+}
+div{
+    margin-bottom: 50px;
+}
+a {
+    text-decoration: none;
+}
+h1 {
+    color:blue;
+}
+#main  {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding-right: 20px;
+    margin: 0;
+}
+h1 a{
+    text-decoration: none;
+
+}
+button a{
+    text-decoration: none;
+    display: block;
+    font-size: 25px;
+    color:crimson;
+}
+button{
+    background-color: lightyellow;
+    border: 2px solid blueviolet;
+    border-radius: 10px;
+    padding: 5px;
+}
